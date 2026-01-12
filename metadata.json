@@ -1,0 +1,7 @@
+{
+  "name": "Q-Semantic Explorer",
+  "description": "A high-fidelity Quantum NLP simulation and chatbot that visualizes semantic entanglement and qubit state transitions in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
